@@ -1,0 +1,65 @@
+*{ 
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    border: blue 2px solid;
+    height: 100vh
+}
+
+.wrapper {
+    display: flex;
+    height: 100vh;
+    border: blue 2px solid;
+}
+
+.top-button {
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.center-buttons {
+    border: red 1px solid;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 50px;
+    padding-bottom: 50px;
+
+}
+
+.bottom-button {
+    display: flex;
+    border: black 1px solid;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.button1 {
+    width: 100px;
+    height: 100px;
+    
+}
+
+.button2 {
+    width: 100px;
+    height: 100px;
+}
+
+.button3 {
+    width: 100px;
+    height: 100px;
+}
+
+.button4 {
+    width: 100px;
+    height: 100px;
+}
+
+.button5 {
+    width: 100px;
+    height: 100px;
+}
